@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I'm Logan (@logannet88)
 
-<!--
-**logannet88/logannet88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems developer based in Barcelona. Most of my time goes into writing low-overhead command-line tools, profiling Linux internals, and compiling things to WebAssembly.
 
-Here are some ideas to get you started:
+### What I do
+- Build network tooling and small systems utilities in Rust and C.
+- Experiment with WASM outside the browser (WASI, custom runtimes).
+- Profile memory layout and optimize hot code paths on Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Daily tools
+`Rust` · `C` · `Linux` · `WebAssembly` · `Git` · `gdb/perf` · `Neovim`
+
+### Reach out
+- Email: `logannet88@proton.me`
+- Matrix: `@logannet88:matrix.org`
